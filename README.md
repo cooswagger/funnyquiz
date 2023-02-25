@@ -1,0 +1,2 @@
+# funnyquiz
+A funny quiz.
